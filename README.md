@@ -11,4 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felipe-agomes&show_icons=true&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-agomes&theme=gotham&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
-  ![Snake animation](https://github.com/felipe-agomes/felipe-agomes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/felipe-AGomes/felipe-agomes/blob/output/github-contribution-grid-snake.svg)
